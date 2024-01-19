@@ -24,11 +24,7 @@
 
 <br><br>
 </p>
-<div align="center">
 
-<h3>Profile Views 👀 </h3>  <img src="https://profile-counter.glitch.me/maahin2005/count.svg" height="50" alt="Profile Views"  />
-
-</div>
 ***My working tools...***
 <br>
 <p align="left">
@@ -41,7 +37,11 @@
 </p>
 
 <br><br>
+<div align="center">
 
+<h3>Profile Views 👀 </h3>  <img src="https://profile-counter.glitch.me/maahin2005/count.svg" height="50" alt="Profile Views"  />
+
+</div>
 <p align="center">
   <i><b>Git Activeness</b></i>
 </p>
